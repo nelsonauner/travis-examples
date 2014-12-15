@@ -1,6 +1,6 @@
 Example: knitr-example
 ==========================
-[![Build Status](https://travis-ci.org/csgillespie/travis-examples.png?branch=knitr)](https://travis-ci.org/csgillespie/travis-examples)
+[![Build Status](https://travis-ci.org/nelsonauner/travis-examples.png?branch=knitr)](https://travis-ci.org/nelsonauner)
 
 
 This branch illustrates how to compile a knitr document under travis. Key points:
