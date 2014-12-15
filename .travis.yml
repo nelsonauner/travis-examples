@@ -4,7 +4,6 @@ language: c
 
 script: 
     - Rscript -e "require(knitr); fname = 'example.Rmd'; knit(fname); purl(fname)"
-    - pdflatex example
 
 before_install:
     - curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
