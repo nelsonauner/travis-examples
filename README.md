@@ -2,6 +2,12 @@ Example: knitr-example
 ==========================
 [![Build Status](https://travis-ci.org/nelsonauner/travis-examples.png?branch=knitr)](https://travis-ci.org/nelsonauner)
 
+Adapt a demo of knitr with Travis to use markdown and upload images to imgur using the `imguR` package. 
+Once successful, will be wrapped into [R Graphics Gallery](https://github.com/nelsonauner/rgraphicsgallery)
+
+original readme below
+-----
+
 
 This branch illustrates how to compile a knitr document under travis. Key points:
 
