@@ -3,7 +3,7 @@ language: c
 # language: objective-c
 
 script: 
-    - Rscript -e "require(knitr); fname = 'example.Snw'; knit(fname); purl(fname)"
+    - Rscript -e "require(knitr); fname = 'example.Rmd'; knit(fname); purl(fname)"
     - pdflatex example
 
 before_install:
